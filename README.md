@@ -30,7 +30,7 @@
 
 ### Results:
 
--Recurrent neural network achieved 100% accuracy
+-Recurrent neural network achieved 99.995% accuracy
 
 ## Application setup (Python 3.8):
 

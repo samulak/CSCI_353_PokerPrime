@@ -28,6 +28,9 @@
 
 -pypoks @ https://github.com/piteren/pypoks
 
+### Results:
+
+-Recurrent neural network achieved 100% accuracy
 
 ## Application setup (Python 3.8):
 

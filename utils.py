@@ -1,3 +1,7 @@
+# Code was forked from:
+# RL Card @ https://github.com/datamllab/rlcard
+# pypoks @ https://github.com/piteren/pypoks
+
 import numpy as np
 
 class Card(object):

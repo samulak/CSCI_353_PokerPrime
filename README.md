@@ -2,7 +2,7 @@
 
 ## Poker card hand classification with different neural networks
 
-Machine Learning areas:
+### Machine Learning areas:
 
 -Feedforward Neural Network
 
@@ -11,18 +11,18 @@ Machine Learning areas:
 -Recurrent Neural Network
 
 
-Scope:
+### Scope:
 
 -Neural network design
 
 -Data preprocessing
 
 
-Libraries used:
+### Libraries used:
 
 -TensorFlow
 
-Forked code for utils.py:
+### Forked code for utils.py:
 
 -RL Cards
 

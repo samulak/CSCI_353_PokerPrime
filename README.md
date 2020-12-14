@@ -22,7 +22,7 @@
 
 -TensorFlow
 
-### Forked code for utils.py:
+### Code reference (used in utils.py):
 
 -RL Card @ https://github.com/datamllab/rlcard
 

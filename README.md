@@ -24,9 +24,9 @@
 
 ### Forked code for utils.py:
 
--RL Cards
+-RL Card @ https://github.com/datamllab/rlcard
 
--pypoks
+-pypoks @ https://github.com/piteren/pypoks
 
 
 ## Application setup (Python 3.8):

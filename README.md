@@ -1,6 +1,6 @@
 # CSCI_353_PokerPrime
 
-## Poker card hand classification with different neural networks
+## Poker card hand classification using neural networks
 
 ### Machine Learning areas:
 
